@@ -1,0 +1,32 @@
+Revenue-Related Metrics:
+Revenue Growth Rate: Measures the rate of increase or decrease in total revenue over a specific period.
+Average Revenue Per Unit (ARPU) by Segment: ARPU split by customer type (e.g., postpaid, prepaid, business, residential).
+Churn Revenue Impact: Revenue lost due to customer churn.
+Customer Lifetime Value (CLV): The total revenue a company expects from a customer over their lifetime.
+Cost of Customer Acquisition (CAC): The cost incurred to acquire a new customer.
+Revenue by Service Type: Breakdown of revenue by voice, data, messaging, etc.
+
+Subscriber & Usage Metrics:
+Subscriber Growth Rate: Percentage change in the number of active subscribers over time.
+Customer Retention Rate: The percentage of customers who remain active within a given period.
+Customer Churn Rate: The rate at which customers unsubscribe or leave the service.
+Average Data Usage Per User: Tracks how much data customers consume on average.
+Postpaid vs Prepaid Subscriber Ratio: Proportion of postpaid to prepaid customers.
+User Engagement Metrics: Measures like the average session length or the number of interactions per active user.
+Mobile Network Traffic (Before and After 5G): Total data transmitted over the network.
+
+5G Adoption & Impact:
+5G Adoption Rate: Percentage of users who have upgraded to 5G.
+5G Data Usage Growth: Growth rate of data usage among 5G customers.
+Device Penetration: Percentage of customers using 5G-capable devices.
+Revenue per GB Before and After 5G: The profitability of data usage in a pre-5G vs. post-5G environment.
+
+Market & Competitive Metrics:
+Customer Acquisition Rate: The rate at which new customers are acquired.
+Market Penetration Rate: The percentage of potential customers in the market who are using your service.
+Competitor Market Share Comparison: How your market share compares to that of key competitors.
+Average Cost per User: Operational costs divided by the number of active users.
+Financial & Operational Efficiency:
+Operating Margin: Measures profitability as a percentage of revenue.
+Network Downtime: Total hours of network unavailability over a period.
+Capital Expenditure (CapEx) per User: Measures investments in infrastructure (e.g., 5G rollout) per user.
